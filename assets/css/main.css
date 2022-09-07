@@ -2555,7 +2555,7 @@ input, select, textarea {
 		border-bottom: none;
 		position: relative;
 		text-align: center;
-		margin: auto;
+		margin: 0 0 1rem 0;
 	}
 
 		.icon:before {
